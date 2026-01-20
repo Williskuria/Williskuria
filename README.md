@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Williskuria
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning java programming language
-- 💞️ I’m looking to collaborate on assignments/projects in java
+- 👀 I’m interested in software Development
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 💞️ I’m looking to collaborate on assignments/projects in JS
 - 📫 You can reach me through my email: williskuria416@gmail.com 
 
 <!---
