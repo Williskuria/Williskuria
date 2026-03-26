@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Williskuria
 - 👀 I’m interested in software Development
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on assignments/projects in JS
 - 📫 You can reach me through my email: williskuria416@gmail.com 
 
